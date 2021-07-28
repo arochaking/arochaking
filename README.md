@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arochaking, I am from Venezuela.
+- 👋 Hi, I’m @arochaking, I am from Venezuela. I'm a Microsoft Learn Student Ambassador. 
 - 👀 I’m interested in Computer Science, Web Developement and learn IA with Python. 
 - 🌱 I’m currently learning about Web Development with React 
 - 💞️ I’m looking to collaborate on some projects to improve my programming skills. 
