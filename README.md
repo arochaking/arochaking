@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arochaking, I am from Venezuela. I'm a Microsoft Learn Student Ambassador. 
-- 👀 I’m interested in Computer Science, Web Development and learn IA with Python. 
-- 🌱 I’m currently learning about Web Development with React 
+- 👋 Hi, I’m Sebastian, I am from Venezuela. I'm a Computer Science student at University of the People.
+- 👀 I’m interested in Computer Science and Web Development.
+- 🌱 I’m constantly learning.
 - 💞️ I’m looking to collaborate on some projects to improve my programming skills. 
-- 📫 How to reach me: you can contact with me in my social networks :D! Follow me on instagram as @arochaking and Linkedin linkedin.com/sebastian-arocha
+- 📫 How to reach me: you can contact with me in my social networks :D! Follow me on instagram @sebas.arocha and Linkedin linkedin.com/sebastian-arocha
 
 <!---
 arochaking/arochaking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
