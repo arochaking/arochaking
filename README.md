@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sebastian, I am from Venezuela. I'm a Computer Science student at University of the People.
+- 👋 Hi, I’m Sebastian, I am from Venezuela. I'm a Computer Science student.
 - 👀 I’m interested in Computer Science and Web Development.
 - 🌱 I’m constantly learning.
 - 💞️ I’m looking to collaborate on some projects to improve my programming skills. 
